@@ -1,0 +1,14 @@
+transformers
+datasets
+torch
+tqdm
+huggingface_hub
+
+# SentencePair
+sentence-transformers
+FlagEmbedding
+
+## packages for not working modules
+## uncomment if use
+# deepeval
+# ragas

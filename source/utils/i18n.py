@@ -1,0 +1,6 @@
+page_title = 'Đọc báo cùng bạn'
+page_icon = '🗞️'
+title = 'Trợ lý đọc báo🔎📰'
+greeting = 'Tôi giúp bạn đọc báo để bạn không cần phải mất thời gian. Hãy hỏi tôi một điều bất kỳ về thời sự.'
+prompt_hint = 'Bạn đang quan tâm đến điều gì?'
+new_thread = 'Bàn luận tin mới'
